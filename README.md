@@ -4,11 +4,11 @@
 <li> wanted to create a design portfolio </li> 
   here are some links:
  <ol>
- <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/Devfest2k22/summary.md"></li>
- <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/GCCDKOL23/summary.md"></li>
-<li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/GDGKol/list.md"></li>
- <li> <a href="https://github.com/TithiB-del/Designs/tree/main/assets/KotlinKolUG"></li>
-<li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/Miscallaneous/contents.md"></li></a>
+ <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/Devfest2k22/summary.md">DevFest</a></li>
+ <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/GCCDKOL23/summary.md">GCCDKOL23</a></li>
+<li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/GDGKol/list.md">GDGKOL</a></li>
+ <li> <a href="https://github.com/TithiB-del/Designs/tree/main/assets/KotlinKolUG">Kotlin Kolkata UG</a></li>
+<li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/Miscallaneous/contents.md">Miscallaneous</a></li>
   <ol>
 <li><a href="https://drive.google.com/drive/folders/1QtIg54xYo3g42tVpGdlPErEnGHpHiKHC?usp=drive_link">Google drive link to samples</a></li>
 <li>Incase the links are not accessible, use the google drive link</li>
