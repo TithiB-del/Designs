@@ -9,7 +9,7 @@
 <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/GDGKol/list.md">GDGKOL</a></li>
  <li> <a href="https://github.com/TithiB-del/Designs/tree/main/assets/KotlinKolUG">Kotlin Kolkata UG</a></li>
 <li> <a href="https://github.com/TithiB-del/Designs/blob/main/assets/Miscallaneous/contents.md">Miscallaneous</a></li>
-  <ol>
+ </ol>
 <li><a href="https://drive.google.com/drive/folders/1QtIg54xYo3g42tVpGdlPErEnGHpHiKHC?usp=drive_link">Google drive link to samples</a></li>
 <li>Incase the links are not accessible, use the google drive link</li>
 <li>I try to write on here- <a href="dev.to/bridgesgap">Dev.to</a>-Visit it if you have time!</li>
